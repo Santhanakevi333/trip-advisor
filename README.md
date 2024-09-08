@@ -27,6 +27,8 @@ Download or clone this repository.
 
 Open the index.html file in any web browser.
 
+GITHUB LINK; https://santhanakevi333.github.io/trip-advisor/
+
 Future Improvements
 
 Add interactivity with JavaScript for dynamic content.
